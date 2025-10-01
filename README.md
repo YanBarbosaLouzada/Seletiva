@@ -8,7 +8,13 @@ Sistema completo de automação para emissão de certificados em lote, desenvolv
 
 **🔗 Acesse a aplicação:** [https://certificate-batch-forge.lovable.app/](https://certificate-batch-forge.lovable.app/)
 
-**🎥 Vídeo demonstrativo:** [Assista ao vídeo de funcionamento](Video/▶️%20-%20n8n%20(1).mp4)
+**🎥 Vídeo demonstrativo:** 
+
+https://github.com/user-attachments/assets/25aeca9c-e643-436e-911e-8ea117c6cc6a
+
+
+
+
 
 ## ⚙️ Funcionalidades
 
