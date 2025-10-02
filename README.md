@@ -12,8 +12,9 @@ Sistema completo de automação para emissão de certificados em lote, desenvolv
 
 https://github.com/user-attachments/assets/25aeca9c-e643-436e-911e-8ea117c6cc6a
 
+**🎥 Foto das mensagens:** 
 
-
+![WhatsApp Image 2025-10-02 at 16 37 15](https://github.com/user-attachments/assets/37db8f13-dd37-4b28-a3e7-f053cf8e4fdf)
 
 
 ## ⚙️ Funcionalidades
