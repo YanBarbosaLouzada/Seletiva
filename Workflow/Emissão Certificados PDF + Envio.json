@@ -28,7 +28,7 @@
       "typeVersion": 2,
       "position": [
         -80,
-        1304
+        1312
       ]
     },
     {
@@ -41,7 +41,7 @@
       "typeVersion": 2,
       "position": [
         144,
-        1304
+        1312
       ]
     },
     {
@@ -99,7 +99,7 @@
       "typeVersion": 1.1,
       "position": [
         368,
-        1352
+        1360
       ],
       "webhookId": "972b7246-0d4b-4d8b-87e4-af6c280c4806"
     },
@@ -125,7 +125,7 @@
             },
             {
               "name": "message",
-              "value": "🎓 Olá {{$json.nome}}!\\n\\nSeu certificado foi emitido! ✅\\n\\nVerifique seu e-mail: {{$json.email}}\\n\\nParabéns pela conquista! 🎉"
+              "value": "=🎓 Olá {{$json.nome}}!\\n\\nSeu certificado foi emitido! ✅\\n\\nVerifique seu e-mail: {{$json.email}}\\n\\nParabéns pela conquista! 🎉"
             }
           ]
         },
@@ -137,7 +137,7 @@
       "typeVersion": 4.2,
       "position": [
         592,
-        1352
+        1360
       ]
     },
     {
@@ -337,7 +337,7 @@
     "timezone": "America/Sao_Paulo",
     "callerPolicy": "workflowsFromSameOwner"
   },
-  "versionId": "563a7c1e-bb85-4326-b523-c4ea71d847e5",
+  "versionId": "e46005d9-1aad-4e2d-87da-808bbc84ca69",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "8316d6e9220e818e84bd277ec9a6bf23d18f0b62609b47fc3e3b05097e3f5a98"
